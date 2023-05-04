@@ -1,0 +1,103 @@
+.header {
+    background-color: brown;
+    padding-bottom: 100px;
+}
+.header-topline {
+    display: block;
+    margin-bottom: 30px;
+}
+.header-logo {
+    margin-left: 10%;
+    max-width: 60px;
+    max-height: 60px;
+    margin-top: 1%;
+}
+.header-img {
+    width: 30vw;
+    height:20vh;
+    display: flex;
+    float: right;
+    margin-right: 10%;
+    object-fit: contain;
+}
+.header-text-flex {
+    position: absolute;
+    top: 2%;
+    left: 68%;
+    width: auto;
+    display: flex;
+    gap: 10px;
+}
+.body-1 {
+    margin-top: 100px;
+    width: auto;
+}
+.body-2 {
+    margin-top: 100px;
+    background-color: grey;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.body-3 {
+    margin-top: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: burlywood;
+}
+footer {
+    margin-top: 100px;
+    background-color: brown;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.captioned-images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.b1-image {
+    width: 15vw;
+    height: 15vw;
+    object-fit: fill;
+    border: 4px black solid;
+    border-radius: 20px;
+}
+figcaption {
+    text-align: center;
+}
+h2, p, h3 {
+    text-align: center;
+}
+.inline-call-to-action {
+    display: flex;
+    align-items: center;
+    width: auto;
+    gap: 20%
+}
+.c-t-a-text-block {
+    display: block;
+    margin-left: 20%
+}
+.c-t-a-button {
+    border-radius: 10px;
+    height: 30px;
+}
+.header-block-text {
+    width: 40vw;
+    display: block;
+    margin-left: 10%;
+    text-align: left;
+}
+h1 {
+    font-size: 36px;
+    text-align: left;
+}
+.h-p {
+    text-align: left;
+}
+.h-1-b {
+    text-align: center;
+}
+.quote {
+    font-size: 36px;
+}
